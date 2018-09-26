@@ -77,7 +77,7 @@ function process_input(input)
 		slink+= "<span class=\"text\"><br>&emsp;&emsp;&emsp;&emsp;&emsp;https://drive.google.com/open?id=1EITbIAKOM_G8y6FdV-1GtwsFqavlRw98<br></span>";
 
 		var git = "<span class=\"highlight\">github: </span>";
-		git+= "<span class=\"text\"><br>&emsp;&emsp;&emsp;&emsp;&emsp;http://www.github.com/karunakapil<br></span>";
+		git+= "<span class=\"text\"><br>&emsp;&emsp;&emsp;&emsp;&emsp;https://drive.google.com/open?id=1KbJZsSsNJ1Jd25y-9nrQN49tjt9_9Lx4<br></span>";
 
 		arr=new Array(flink,slink,git);
 		delayed_type(arr,500,take_input);
