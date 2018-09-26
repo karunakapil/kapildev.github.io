@@ -4,7 +4,7 @@ var id = 0;
 function initialize()
 {
 	document.body.innerHTML = "<div id=\"console\"></div>";
-	delayed_type("Hey guys, I'am KAPILDEV ,TYPE help to know more about me", 50, take_input);
+	delayed_type("Hey guys, I'am KAPILDEV ,Very Happy to tell about myself!!! please TYPE help ", 50, take_input);
 }
 
 function delayed_type(text, delay, callback)
