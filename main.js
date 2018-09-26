@@ -77,7 +77,7 @@ function process_input(input)
 		slink+= "<span class=\"text\"><br>&emsp;&emsp;&emsp;&emsp;&emsp;https://drive.google.com/open?id=1EITbIAKOM_G8y6FdV-1GtwsFqavlRw98 <br></span>";
 
 		var git = "<span class=\"highlight\">github: </span>";
-		git+= "<span class=\"text\"><br>&emsp;&emsp;&emsp;&emsp;&emsp;<br>http://github.com/karunakapil <br></span>";
+		git+= "<span class=\"text\"><br>&emsp;&emsp;&emsp;&emsp;&emsp;http://github.com/karunakapil <br></span>";
 
 		arr=new Array(flink,slink,git);
 		delayed_type(arr,500,take_input);
@@ -87,6 +87,7 @@ function process_input(input)
 		var soccer= "<span class=\"highlight\">ONLINE SOCCER SHOP : </span>";
 		soccer += "<span class=\"text\">An Online Store where sports goods predominantly Soccer Items are sold Done with PHP and MySQL as the Backend, HTML, CSS as the Front End Includes Certified Reviewer Status for Each Customer, ";
 		soccer += "mathematical operators, conditional and loop statements.<br></span>"
+
 
 		var alarm = "<span class=\"highlight\">WAKE ME UP APP USING GPS : </span>";
 		alarm+= "<span class=\"text\">•	Developed an android app named ‘Wake Me Up’, which rings an alarm if the desired location is reached. The app works with the help of tracing the latitude and longitude positions.<br></span>"

@@ -3,9 +3,12 @@ body {
   /*font-weight: bold;*/
   font-size: 18px;
   color: #00ff00;
-  background: #00111a;
+  background: yellow;
   padding-left: 3%;
   padding-top: 3%;
+  background:#00111a;
+  /*background-image: url(3.png);
+  background-image: no-repeat;*/
 }
 
 input{
